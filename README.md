@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afif14
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning ReactJs, tailwind
+- 🌱 I’m deeply learning Frontend Enginner
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
